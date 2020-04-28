@@ -1,5 +1,5 @@
 # teste
 
-! [./cabun.jpg] (random cat)
+! [random cat] (./cabun.jpg)
 
 Respositório teste

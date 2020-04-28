@@ -1,5 +1,5 @@
 # teste
 
-![random cat](/Desktop/PrimeiroRepo/cabun.jpg)
+![random cat](./cabun.jpg)
 
 Respositório teste

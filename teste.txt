@@ -4,3 +4,4 @@ testando pull
 testando llup
 conflito testando
 testando conflito
+conflito testando 2

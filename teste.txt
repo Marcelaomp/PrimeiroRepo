@@ -8,3 +8,5 @@ testando conflito 2
 conflito testando 2
 branch exercício
 Exercício de branch
+Exercício de rebase (linha 1)
+Exercício de rebase (linha 2)

@@ -10,3 +10,5 @@ branch exercício
 Exercício de branch
 Exercício de rebase (linha 1)
 Exercício de rebase (linha 2)
+Exercício de rebase (branch2)
+

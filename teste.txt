@@ -1,14 +1,18 @@
 testando git
 teste 2
+
 testando pull
 testando llup
+
 conflito testando
 testando conflito
 testando conflito 2
 conflito testando 2
+
 branch exercício
 Exercício de branch
+
 Exercício de rebase (linha 1)
 Exercício de rebase (linha 2)
 Exercício de rebase (branch2)
-
+testando fetch + rebase
